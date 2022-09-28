@@ -1,12 +1,13 @@
 ### Hi there 👋
 
 
-<a href="https://github.com/ystkfujii">
-  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=ystkfujii&count_private=true&show_icons=true&theme=dracula" />
-</a>
-<a href="https://github.com/ystkfujii">
-  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ystkfujii&layout=compact&theme=dracula" />
-</a>
+<p align="left">
+  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=ystkfujii&count_private=true&show_icons=true&theme=dracula" />
+  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ystkfujii&layout=compact&theme=dracula" />
+</p>
+<p align="left" >
+  <img src="https://github-profile-trophy.vercel.app/?username=ystkfujii&theme=onedark&column=8" />
+</p>
 
 <!--
 **ystkfujii/ystkfujii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
