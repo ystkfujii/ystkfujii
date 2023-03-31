@@ -20,6 +20,7 @@ I am Software Engineer and interested in Cloud Native technologies such as k8s a
 <img align="left" alt="TypeScript" width="26px" src="https://cncf-branding.netlify.app/img/projects/helm/icon/color/helm-icon-color.png" />
 <img align="left" alt="TypeScript" width="26px" src="https://github.com/cncf/artwork/blob/master/projects/istio/icon/color/istio-icon-color.png" />
 <img align="left" alt="TypeScript" width="26px" src="https://www.datocms-assets.com/2885/1620155116-brandhcterraformverticalcolor.svg" />
+<img align="left" alt="TypeScript" width="26px" src="https://github.com/github/explore/blob/main/topics/docker/docker.png" />
 <img align="left" alt="TypeScript" width="26px" src="https://cncf-branding.netlify.app/img/projects/kubernetes/icon/color/kubernetes-icon-color.png" />
 
 <br/>
@@ -41,7 +42,7 @@ I am Software Engineer and interested in Cloud Native technologies such as k8s a
 
 ### Others
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="GitHub" width="26px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/dda8994b8fe441d0d31867d8add48e8924ff15de/topics/gitlab/gitlab.png" />
 
 <br/>
