@@ -41,6 +41,9 @@ I am Software Engineer and interested in Cloud Native technologies such as k8s a
 <br/>
 
 ### Others
+
+ 
+ 
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/dda8994b8fe441d0d31867d8add48e8924ff15de/topics/gitlab/gitlab.png" />
@@ -49,21 +52,27 @@ I am Software Engineer and interested in Cloud Native technologies such as k8s a
 
 ## GitHub ReadMe Stats
 
+<details>
 <summary>:zap: GitHub Stats</summary>
  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ystkfujii&theme=onedark&show_icons=true/)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ystkfujii&layout=compact&theme=onedark&show_icons=true/)
   
+</details>
+<details>
 <summary>:zap: GitHub Profile Summary Cards</summary>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ystkfujii&theme=onedark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ystkfujii&theme=onedark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ystkfujii&theme=onedark)
 
+</details>
+<details>
 <summary>:zap: GitHub Trophy</summary>
 
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=ystkfujii&theme=onedark&column=8)
 
+</details>
 
 <!--
 **ystkfujii/ystkfujii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
